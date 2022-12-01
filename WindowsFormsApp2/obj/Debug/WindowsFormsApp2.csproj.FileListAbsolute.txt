@@ -1,0 +1,11 @@
+C:\Users\hp\Source\Repos\Formulaire-d-acces-aux-donnes\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\hp\Source\Repos\Formulaire-d-acces-aux-donnes\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\hp\Source\Repos\Formulaire-d-acces-aux-donnes\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\hp\Source\Repos\Formulaire-d-acces-aux-donnes\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\hp\Source\Repos\Formulaire-d-acces-aux-donnes\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Source\Repos\Formulaire-d-acces-aux-donnes\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\hp\Source\Repos\Formulaire-d-acces-aux-donnes\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\hp\Source\Repos\Formulaire-d-acces-aux-donnes\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\hp\Source\Repos\Formulaire-d-acces-aux-donnes\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Source\Repos\Formulaire-d-acces-aux-donnes\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\hp\Source\Repos\Formulaire-d-acces-aux-donnes\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
